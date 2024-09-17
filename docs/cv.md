@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "CV | Resume"
 permalink: /cv
 ---

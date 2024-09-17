@@ -4,4 +4,5 @@ title: "CV | Resume"
 permalink: /cv
 ---
 
-<iframe src="./resoucres/cv.pdf" width="100%" height="600px"></iframe>
+![Image](./resources/cv.jpg)
+[Скачать PDF](./resources/cv.pdf)
